@@ -1,0 +1,25 @@
+body{
+	margin: 0;
+	padding: 0;
+
+}
+.card h4{
+	padding: 10px 10px;
+}
+.card{
+	transition: .5s;
+	background: #eee;
+}
+.card:hover i, h5{
+	color: #c2185b;
+}
+.card:hover{
+	transition: scale(1.03);
+}
+.h4{
+	text-align: center;
+}
+nav li a{
+	color: white;
+	font-size: 20px;
+}
